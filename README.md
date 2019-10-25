@@ -17,7 +17,6 @@ Số lượng test cases: 25447
 
 - _Ngoài ra có thể export báo cáo dưới các định dạng khác như: xml, text_
 
-### 2. Kết quả chạy bởi
-
-### 3. So sánh PMD Java và
+### 2. Kết quả chạy bởi Sonarqube
+![Xem tại đây](https://github.com/duchuy1412/juliet-test-suite)
 
